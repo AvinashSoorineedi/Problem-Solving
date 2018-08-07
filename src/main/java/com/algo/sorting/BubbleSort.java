@@ -1,4 +1,4 @@
-package sorting;
+package com.algo.sorting;
 
 public class BubbleSort {
 
